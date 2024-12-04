@@ -1,7 +1,7 @@
 ## Hi there, I'm Jakob Edvardsson 👋
 
 I'm a computer science student at Malmö University, who loves tinkering with computers and software!
-If I'm not writing code I'll be cosplaying as a Sysadmin in my homelab.
+If I'm not writing code I'll be cosplaying as a sysadmin in my homelab.
 I'm currently pursuing a bachelor in Computer Science with specialization in Computer Systems Development.
 
 ---
