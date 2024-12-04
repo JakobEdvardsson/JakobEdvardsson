@@ -8,12 +8,12 @@ I'm currently pursuing a bachelor in Computer Science with specialization in Com
 
 ## Technical Skills
 
-| **Category**        | **Technologies**                          |
-| ------------------- | ----------------------------------------- |
-| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL |
-| **Frameworks**      | Spring Boot, Next.js                      |
-| **Developer Tools** | Git, Docker, Linux, Neovim, Hyprland      |
-| **Libraries**       | Vue, React, Tailwind CSS, Zod             |
+| **Category**        | **Technologies**                            |
+| ------------------- | ------------------------------------------- |
+| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL   |
+| **Frameworks**      | Spring Boot, Next.js                        |
+| **Developer Tools** | Git, Docker, Linux, Neovim, Hyprland, Nix   |
+| **Libraries**       | Vue, React, Tailwind CSS, Zod               |
 
 ---
 
