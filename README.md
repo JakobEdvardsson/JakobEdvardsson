@@ -4,17 +4,58 @@ I'm a computer science student at Malmö University, who loves tinkering with co
 If I'm not writing code I'll be cosplaying as a Sysadmin in my homelab.
 I'm currently pursuing a bachelor in Computer Science with specialization in Computer Systems Development.
 
-<!--
-**JakobEdvardsson/JakobEdvardsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Category**        | **Technologies**                          |
+| ------------------- | ----------------------------------------- |
+| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL |
+| **Frameworks**      | Spring Boot, Next.js                      |
+| **Developer Tools** | Git, Docker, Linux, Neovim, Hyprland      |
+| **Libraries**       | Vue, React, Tailwind CSS, Zod             |
+
+---
+
+## Work Experience
+
+### Software Developer Intern
+
+**Sarsys** | Malmö
+**Sep. 2024 – Present**
+
+---
+
+## Projects
+
+### [Marketplace](https://github.com/luxcorel/marketplace)
+
+Responsive marketplace web app. Backend REST API built with Spring boot and responsive frontend built with Next.js.
+
+### [Weatherwear](https://github.com/Luxcorel/weatherwear)
+
+Fullstack Next.js web app which suggests outfits and music based on current weather.
+
+### [OnlyFin](https://github.com/JakobEdvardsson/OnlyFin)
+
+An online platform where stock analysts can share different kinds of analysis in the form of graphs.
+
+### [SvexasHoldem](https://github.com/JakobEdvardsson/SvexasHoldem)
+
+A multiplayer poker game, server, and client written in Java.
+
+---
+
+## Education
+
+- **B.Sc. in Computer Science**, Malmö University (2022 - 2025)
+- Ethical Hacking courses, KTH Royal Institute of Technology
+- Web Development courses, Luleå University of Technology
+- Project Management Course, University of Skövde
+
+---
+
+## Contact
+
+**[LinkedIn](https://www.linkedin.com/in/jakob-edvardsson/)**
+**[Email](mailto:Jakob@Edvardsson.tech)**
