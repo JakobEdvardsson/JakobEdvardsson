@@ -58,4 +58,5 @@ A multiplayer poker game, server, and client written in Java.
 ## Contact
 
 **[LinkedIn](https://www.linkedin.com/in/jakob-edvardsson/)**
+
 **[Email](mailto:Jakob@Edvardsson.tech)**
