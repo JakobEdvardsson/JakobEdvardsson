@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Jakob Edvardsson 👋
+
+I'm a computer science student at Malmö University, who loves tinkering with computers and software!
+If I'm not writing code I'll be cosplaying as a Sysadmin in my homelab.
+I'm currently pursuing a bachelor in Computer Science with specialization in Computer Systems Development.
 
 <!--
 **JakobEdvardsson/JakobEdvardsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
