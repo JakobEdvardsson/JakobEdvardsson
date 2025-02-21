@@ -10,12 +10,14 @@ I'm currently pursuing a bachelor in Computer Science with specialization in Com
 
 ### Bachelor Thesis Student
 
-**Voyado** | Lund  
+**Voyado** | Lund
+
 **Jan. 2025 – Present**
 
 ### Software Developer Intern
 
 **Sarsys** | Malmö
+
 **Sep. 2024 – Jan. 2025**
 
 ---
