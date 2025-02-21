@@ -30,9 +30,9 @@ Responsive marketplace web app. Backend REST API built with Spring boot and resp
 
 Fullstack Next.js web app which suggests outfits and music based on current weather.
 
-### [Nix cofig](https://github.com/JakobEdvardsson/nix-config)
+### [Nix Config](https://github.com/JakobEdvardsson/nix-config)
 
-My Nix setup for my homelab and workstations, because declarative deployments are superior.
+My Nix setup for my homelab and workstations, because declarative deployments are superior!
 
 ### [OnlyFin](https://github.com/JakobEdvardsson/OnlyFin)
 
