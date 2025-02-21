@@ -6,23 +6,17 @@ I'm currently pursuing a bachelor in Computer Science with specialization in Com
 
 ---
 
-## Technical Skills
-
-| **Category**        | **Technologies**                            |
-| ------------------- | ------------------------------------------- |
-| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL   |
-| **Frameworks**      | Spring Boot, Next.js                        |
-| **Developer Tools** | Git, Docker, Linux, Neovim, Hyprland, Nix   |
-| **Libraries**       | Vue, React, Tailwind CSS, Zod               |
-
----
-
 ## Work Experience
+
+### Bachelor Thesis Student
+
+**Voyado** | Lund  
+**Jan. 2025 – Present**
 
 ### Software Developer Intern
 
 **Sarsys** | Malmö
-**Sep. 2024 – Present**
+**Sep. 2024 – Jan. 2025**
 
 ---
 
@@ -36,22 +30,34 @@ Responsive marketplace web app. Backend REST API built with Spring boot and resp
 
 Fullstack Next.js web app which suggests outfits and music based on current weather.
 
+### [Nix cofig](https://github.com/JakobEdvardsson/nix-config)
+
+My Nix setup for my homelab and workstations, because declarative deployments are superior.
+
 ### [OnlyFin](https://github.com/JakobEdvardsson/OnlyFin)
 
 An online platform where stock analysts can share different kinds of analysis in the form of graphs.
-
-### [SvexasHoldem](https://github.com/JakobEdvardsson/SvexasHoldem)
-
-A multiplayer poker game, server, and client written in Java.
 
 ---
 
 ## Education
 
 - **B.Sc. in Computer Science**, Malmö University (2022 - 2025)
-- Ethical Hacking courses, KTH Royal Institute of Technology
-- Web Development courses, Luleå University of Technology
-- Project Management Course, University of Skövde
+- Ethical Hacking course, KTH Royal Institute of Technology
+- Linux Development Environment course, Umeå University
+- Web Development course, Luleå University of Technology
+- Project Management course, University of Skövde
+
+---
+
+## Technical Skills
+
+| **Category**        | **Technologies**                          |
+| ------------------- | ----------------------------------------- |
+| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL |
+| **Frameworks**      | Spring Boot, Next.js                      |
+| **Developer Tools** | Git, Docker, Linux, Neovim, Hyprland, Nix |
+| **Libraries**       | Vue, React, Tailwind CSS, Zod             |
 
 ---
 
