@@ -1,17 +1,24 @@
 ## Hi there, I'm Jakob Edvardsson 👋
 
-I'm a computer science student at Malmö University, who loves tinkering with computers and software!
-If I'm not writing code I'll be cosplaying as a sysadmin in my homelab.
-I'm currently pursuing a bachelor in Computer Science with specialization in Computer Systems Development.
+I'm a software engineer intern at Neo4j with a passion for software development.
+When I'm not coding, I’m cosplaying as a sysadmin in my homelab or configuring my development environment.
 
 ---
 
-## Work Experience
+## Work Experience 💼
+### Software Engineer Intern
+
+**Neo4j** | Malmö
+**June. 2025 – Present**
+
+---
 
 ### Bachelor Thesis Student
 
 **Voyado** | Lund  
-**Jan. 2025 – Present**
+**Jan. 2025 – June. 2025**
+
+---
 
 ### Software Developer Intern
 
@@ -20,7 +27,7 @@ I'm currently pursuing a bachelor in Computer Science with specialization in Com
 
 ---
 
-## Projects
+## Projects 📁
 
 ### [Marketplace](https://github.com/luxcorel/marketplace)
 
@@ -40,7 +47,7 @@ An online platform where stock analysts can share different kinds of analysis in
 
 ---
 
-## Education
+## Education 🎓
 
 - **B.Sc. in Computer Science**, Malmö University (2022 - 2025)
 - Ethical Hacking course, KTH Royal Institute of Technology
@@ -50,18 +57,18 @@ An online platform where stock analysts can share different kinds of analysis in
 
 ---
 
-## Technical Skills
+## Technical Skills 💻
 
-| **Category**        | **Technologies**                          |
-| ------------------- | ----------------------------------------- |
-| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL |
-| **Frameworks**      | Spring Boot, Next.js                      |
-| **Developer Tools** | Git, Docker, Linux, Neovim, Hyprland, Nix |
-| **Libraries**       | Vue, React, Tailwind CSS, Zod             |
+| **Category**        | **Technologies**                            |
+| ------------------- | --------------------------------------------|
+| **Languages**       | Go, Java, JavaScript/TypeScript, Nix, SQL   |
+| **Developer Tools** | Git, Kubernetes, Docker, Linux, Neovim, Nix |
+| **Frameworks**      | Spring Boot, Next.js                        |
+| **Libraries**       | Vue, React, Tailwind CSS, Zod               |
 
 ---
 
-## Contact
+## Contact 📞 
 
 **[LinkedIn](https://www.linkedin.com/in/jakob-edvardsson/)**
 
